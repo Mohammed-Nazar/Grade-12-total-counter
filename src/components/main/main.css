@@ -1,0 +1,29 @@
+.main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 90%;
+}
+.main input {
+    border-radius: 10px;
+    padding: 5px;
+    margin: 10px;
+    width: 300px;
+    border: 1px solid #7C9D96;
+}
+
+.main input:focus{
+    border: 1px solid #7C9D96;
+    outline: 1px solid #7C9D96;
+
+}
+
+.total {
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    border: 1px dashed #7C9D96;
+    width: 300px;
+    border-radius: 10px;
+}
