@@ -1,1 +1,1 @@
-gr12-count.netlify.app
+https://gr12-count.netlify.app
